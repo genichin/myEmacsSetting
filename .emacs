@@ -17,4 +17,3 @@
 
 (add-hook 'c-mode-common-hook 'my-cpp-highlight)
 
-(global-linum-mode 1)
