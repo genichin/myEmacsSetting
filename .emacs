@@ -17,3 +17,5 @@
 
 (add-hook 'c-mode-common-hook 'my-cpp-highlight)
 
+(global-set-key "\C-x\C-m" 'execute-extended-command)
+
